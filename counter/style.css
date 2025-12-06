@@ -1,0 +1,23 @@
+body{
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    background-color: azure;
+}
+h1{
+    text-align: center;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+}
+span#value{
+    font-size: 3em;
+    font-weight: bold;
+}
+div.button-container>button{
+    margin: 30px 10px;
+    background-color: transparent;
+    border-radius: 5px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 5px 10px;
+}
