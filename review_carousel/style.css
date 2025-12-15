@@ -1,0 +1,68 @@
+body{
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color: rgb(222, 238, 247);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+}
+main>.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+main>.container>.title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+main>.container>.title>h2{
+    letter-spacing: 0.1em;
+}
+main>.container>.title>.underline{
+    height: 5px;
+    width: 100px;
+    background-color: rgb(153, 215, 249);
+    position: relative;
+    top: -10px;
+}
+.review{
+    text-align: center;
+    width: 500px;
+    height: 600px;
+    margin-top: 50px;
+    background-color: white;
+    box-shadow: 1px 3px 10px 3px rgb(156, 156, 156);
+    border-radius: 5px;
+}
+.review>.img-container>img{
+    margin-top: 20px;
+    height: 250px;
+    width: 250px;
+}
+.review>h4{
+    letter-spacing: 0.3em;
+}
+.review>.job{
+    text-transform: uppercase;
+    color: rgb(112, 191, 233);
+    position: relative;
+    top: -15px;
+}
+.review>.info{
+    padding: 0 30px;
+    font-size: 0.8em;
+}
+.review>.button-container{
+    margin-bottom: 20px;
+}
+.review>.button-container>.prev-btn,.next-btn{
+    border: none;
+    background-color: transparent;
+    color: rgb(153, 215, 249);
+}
+.review>.random-btn{
+    background-color: rgb(209, 239, 255);
+    color: rgb(112, 191, 233);
+    border: 1px solid rgb(112, 191, 233);
+    border-radius: 10px;
+}
