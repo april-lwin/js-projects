@@ -23,6 +23,6 @@ https://april-lwin.github.io/js-projects/color_flipper/
 - 이벤트 발생 시 스타일과 텍스트 동적 변경
 
 ## Preview
-| Simple Mode | Hex Mode |
+| Preview 1 | Preview 2 |
 |-------------|----------|
 | ![](../assets/screenshots/color_flipper.png) | ![](../assets/screenshots/color_flipper2.png) |
