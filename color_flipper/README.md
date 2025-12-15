@@ -23,4 +23,6 @@ querySelector와 getElementById 차이
 이벤트 발생 시 스타일과 텍스트 동적 변경
 
 ## Preview
-![Color Flipper Preview](../assets/screenshots/color_flipper.png) (../assets/screenshots/color_flipper2.png)
+| Simple Mode | Hex Mode |
+|-------------|----------|
+| ![](../assets/screenshots/color_flipper.png) | ![](../assets/screenshots/color_flipper2.png) |
