@@ -1,7 +1,7 @@
 # Color Flipper
 
 🔗 **Live Demo**
-https://april-lwin.github.io/js-projects/color-flipper/
+https://april-lwin.github.io/js-projects/color_flipper/
 
 ## Description
 버튼을 클릭하면 배경색이 랜덤으로 변경되고, 현재 색상 값이 화면에 표시되는 간단한 컬러 변경 앱입니다.
